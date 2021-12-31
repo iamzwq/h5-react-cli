@@ -1,7 +1,3 @@
-## 移动端 react-cli
+## 🌈 移动端 react-cli
 
-
-[create-react-app@5.0.0](https://github.com/facebook/create-react-app/releases/tag/v5.0.0) + [typescript](https://www.typescriptlang.org/) + [craco](https://github.com/gsoft-inc/craco) + [mobx](https://mobx.js.org/README.html) + [axios](https://www.axios-http.cn/)
-
-该项目为移动端项目所以加入了
-[antd-mobile](https://mobile.ant.design/) + [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport/blob/master/README.md)
+[![create-react-app@5.0.0](https://img.shields.io/badge/create--react--app-5.0.0-green)](https://github.com/facebook/create-react-app/releases/tag/v5.0.0)     [![react](https://img.shields.io/badge/react-17.0.2-green)](https://github.com/facebook/react) [![typescript](https://img.shields.io/badge/typescript-4.5.4-green)](https://www.typescriptlang.org/) [![craco](https://img.shields.io/badge/craco-6.4.3-green)](https://github.com/gsoft-inc/craco) [![mobx](https://img.shields.io/badge/mobx-6.3.10-green)](https://mobx.js.org/README.html) [![axios](https://img.shields.io/badge/axios-0.24.0-green)](https://www.axios-http.cn/) [![antd-mobile](https://img.shields.io/badge/antd--mobile-5.0.0--rc.12-green)](https://mobile.ant.design/) [![postcss-px-to-viewport](https://img.shields.io/badge/postcss--px--to--viewport-1.1.1-green)](https://github.com/evrone/postcss-px-to-viewport/blob/master/README.md)
